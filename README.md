@@ -5,8 +5,8 @@ just show some jpg and png
 ### 027
 ![2](show_027/show_027_1.png)
 ### 021
-![3](show_021/show_021_2.jpg)
-![4](show_021/show_021_3.jpg)
+![3](show_021/show_021_2.png)
+![4](show_021/show_021_3.png)
 ### 019
 ![5](show_019/show_019_02.jpg)
 ### 009
