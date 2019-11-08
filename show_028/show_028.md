@@ -2,5 +2,5 @@
 
 ### 实物图
 
-![1](https://github.com/justin183/relax/blob/master/show_028/show_028_01.jpg)
+![1](https://github.com/justin183/relax/show_028/show_028_01.jpg)
 
